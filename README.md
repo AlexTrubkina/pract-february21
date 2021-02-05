@@ -28,7 +28,7 @@
 
 2.1 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%92%D0%A1%D0%A0/%D0%92%D0%A1%D0%A02.1.png)
 
-2.2 Выполненное задание
+2.2 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%92%D0%A1%D0%A0/%D0%92%D0%A1%D0%A02.2.pdf)
 
 2.3 Выполненное задание
 
