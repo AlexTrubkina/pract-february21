@@ -1,5 +1,9 @@
 # Результаты учебной практики Трубкиной Александры
 
+## Отчет
+
+## Задание
+
 ## Инвариантные самостоятельные работы
 
 1.1 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%98%D0%A1%D0%A0/%D0%98%D0%A1%D0%A0%201.1.pdf)
@@ -12,17 +16,17 @@
 
 1.5 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%98%D0%A1%D0%A0/%D0%98%D0%A1%D0%A01.5.pdf)
 
-1.6 Выполненное задание
+1.6 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%98%D0%A1%D0%A0/%D0%98%D0%A1%D0%A01.6.md)
 
-1.7 Выполненное задание
+1.7 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%98%D0%A1%D0%A0/%D0%98%D0%A1%D0%A01.7.md)
 
 1.8 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%98%D0%A1%D0%A0/%D0%98%D0%A1%D0%A01.8.pdf)
 
 1.9 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%98%D0%A1%D0%A0/%D0%98%D0%A1%D0%A01.9.pdf)
 
-1.10 Выполненное задание
+1.10 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%98%D0%A1%D0%A0/%D0%98%D0%A1%D0%A01.10.pdf)
 
-1.11 Выполненное задание
+1.11 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%98%D0%A1%D0%A0/%D0%98%D0%A1%D0%A01.11.png)
 
 ## Вариативные самостоятельные работы
 
@@ -30,6 +34,6 @@
 
 2.2 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%92%D0%A1%D0%A0/%D0%92%D0%A1%D0%A02.2.pdf)
 
-2.3 Выполненное задание
+2.3 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%92%D0%A1%D0%A0/%D0%92%D0%A1%D0%A02.3.md)
 
-2.4 Выполненное задание
+2.4 [Выполненное задание](https://github.com/AlexTrubkina/pract-february21/blob/main/%D0%92%D0%A1%D0%A0/%D0%92%D0%A1%D0%A02.4.md)
